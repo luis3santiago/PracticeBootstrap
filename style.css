@@ -1,0 +1,46 @@
+*{
+  margin:0px
+  padding:0px
+}
+h1{
+  text-align: center;
+  color:orange;
+  text-decoration:bold;
+  background-color:#7CF3F0
+}
+.center{text-align: center;
+color:black;
+text-decoration:bold;
+font-size:20px;
+}
+body{
+  background-color:lightblue
+
+}
+
+.carousel {
+  width:640px;
+  height:360px;
+  margin: auto;
+}
+.row{
+  margin-top:100px;
+  margin-left:200px;
+}
+.card{
+  margin:1rem;
+}
+.foot{
+  color:black;
+}
+.feet{
+  color:black;
+}
+footer{
+  background-color:white;
+  text-align:center;
+  width:100%
+}
+ul{
+  list-style-type: none
+}
